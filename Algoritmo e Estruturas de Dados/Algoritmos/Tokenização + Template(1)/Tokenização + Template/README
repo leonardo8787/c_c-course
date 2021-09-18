@@ -1,0 +1,5 @@
+GTOKEN.CPP
+Arquivo implementado em c++ para exemplificar a utilização da função strtok e stod da string.h. Uma vez que stod é uma lib da biblioteca C++ é preciso compilar com g++. 
+
+TOKENIZER.CPP + TOKENAIZER.H
+Exemplo de tokenização utilizando C++. Nesse exemplo o emprego de classes, orientação a objetos, tipos dinâmicos com templates e método dinâmico de preenchimento de múltiplas structs em memória primária são temas abordados. A compilação é realizada utilizando g++.
