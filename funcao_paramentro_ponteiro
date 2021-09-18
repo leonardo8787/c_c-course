@@ -1,0 +1,23 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+int retornaNumMaisDez(int numero){
+	return numero + 10;
+}
+
+void aumentaDez(int *numero){
+	*numero = *numero + 10
+}
+
+int main(){
+	
+	int a=5;
+
+	printf("%d", a);
+
+	a = retornaNumMaisDez(a);
+	printf("\n\n");
+	aumentaDez(a);
+
+	return 0;
+}
